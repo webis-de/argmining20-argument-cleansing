@@ -1,0 +1,253 @@
+1-gram;
+people;36287
+god;30367
+;
+1-gram-no-sw;
+government;11515
+states;10291
+state;8374
+law;7797
+society;7025
+universe;6853
+death;6758
+money;6544
+;
+1-gram-tfidf;
+puzzle;1.0
+xbox;0.6244628964739649
+multiplayer;0.564408193010391
+community;0.5296462957269364
+depression;0.4732331600650643
+farmers;0.376241784435835
+murderers;0.36801228687326437
+;
+1-gram-tfidf-no-sw;
+chromosomes;0.6522031427624658
+homes;0.6044346027010926
+homeschool;0.6044346027010926
+antibiotics;0.5300559643232327
+employers;0.5158973461901183
+empowerment;0.48246889585825564
+fbi;0.47043534891881106
+fatherland;0.4207069494718693
+;
+2-gram;
+the world;6210
+the bible;5918
+the universe;5048
+;
+2-gram-no-sw;
+united states;3906
+death penalty;1868
+gay marriage;1205
+minimum wage;1205
+big bang;1156
+god exists;1047
+human rights;1028
+health care;943
+high school;814
+global warming;789
+god exist;788
+years ago;781
+video games;757
+human beings;751
+jesus christ;711
+believe god;682
+merriam webster;670
+opponent claims;658
+god created;648
+existence god;628
+federal government;616
+supreme court;601
+self defense;599
+human life;597
+god would;585
+new york;573
+years old;567
+old testament;564
+;
+2-gram-tfidf;
+and weaponry;0.5553443710820591
+is religion;0.5
+is religions;0.5
+both civilians;0.49579004850982306
+the public;0.459766472040807
+communist society;0.4483764006306497
+communists view;0.4483764006306497
+the mitochondria;0.4229576392424562
+;
+2-gram-tfidf-no-sw;
+americans like;1.0
+god make;1.0
+sperm eggs;1.0
+trials god;1.0
+unlike god;1.0
+decisions support;0.8050845520887384
+alien life;0.7610439860671173
+schools hospitals;0.7303736420850151
+god left;0.7071067811865475
+god let;0.7071067811865475
+sport would;0.7071067811865475
+schools investing;0.6830478335720496
+first lady;0.6325689846263073
+pay higher;0.6030226891555273
+americans lost;0.5773502691896257
+americans oppose;0.5773502691896257
+americans say;0.5773502691896257
+authority force;0.5773502691896257
+authority get;0.5773502691896257
+authority ignore;0.5773502691896257
+executions hurt;0.5773502691896257
+executions largely;0.5773502691896257
+executions likely;0.5773502691896257
+going campaign;0.5773502691896257
+point another;0.5773502691896257
+widespread support;0.5773502691896257
+couples included;0.5410960842023871
+nothing parasite;0.5064361008982233
+;
+3-gram;
+the fact that,4206;
+the united states,3659;
+the existence of,1633;
+the death penalty,1485;
+the definition of,1153;
+of the world,1128;
+of the debate,1123;
+in the united,1016;
+;
+3-gram-no-sw;
+big bang theory;251
+united states america;218
+universal health care;166
+separation church state;132
+world war ii;123
+new york times;120
+;
+3-gram-tfidf;
+an infinite regression;1.0
+in recent years;1.0
+in religious matters;1.0
+all rebuttals defense;0.7071067811865475
+all relevant to;0.7071067811865475
+and christmas should;0.7071067811865475
+and chromosomes even;0.7071067811865475
+politicians and all;0.7071067811865475
+politicians are just;0.7071067811865475
+they should message;0.7071067811865475
+they should not;0.7071067811865475
+punishes any state;0.6974823173776595
+of god also;0.6575959492214289
+breed carelessly and;0.589808323267693
+breed is to;0.589808323267693
+unequal distribution of;0.589808323267693
+unequal just as;0.589808323267693
+god same sex;0.5773502691896257
+god saying everything;0.5773502691896257
+god so we;0.5773502691896257
+breeding as much;0.5515906848454797
+unequal society with;0.5515906848454797
+proves that there;0.5425874066132712
+proves that this;0.5425874066132712
+government is well;0.5243036789688953
+mention anything remotely;0.5213080575635122
+mention biblical prophecy;0.5213080575635122
+mention clearly this;0.5213080575635122
+government is to;0.5103147191672759
+and easilly corrupted;0.50802638883047
+and eating any;0.50802638883047
+and economical operation;0.50802638883047
+would lose the;0.50802638883047
+would lower their;0.50802638883047
+would make an;0.50802638883047
+as common carriers;0.5036315685196356
+provide aid to;0.5
+provide an alternative;0.5
+provide an explanation;0.5
+provide an illistration;0.5
+wrote and broadcast;0.5
+wrote believe that;0.5
+new york basic;0.49234766060433116
+new york deputy;0.49234766060433116
+proves that you;0.48248461648057206
+and education but;0.47510795063397554
+would make bad;0.47510795063397554
+in reality there;0.47353037872809456
+in reality unnecessary;0.47353037872809456
+in reality wherein;0.47353037872809456
+in recent observation;0.47353037872809456
+bomb dropped small;0.4472135954999579
+bomb evoked the;0.4472135954999579
+bomb he stated;0.4472135954999579
+bomb of clear;0.4472135954999579
+original copy of;0.4472135954999579
+original hebrew and;0.4472135954999579
+original hebrew for;0.4472135954999579
+original night of;0.4472135954999579
+proves the existence;0.4472135954999579
+proves the rotation;0.4472135954999579
+provide additional resources;0.4472135954999579
+provide adequate care;0.4472135954999579
+provide adequate toilets;0.4472135954999579
+unique behavior of;0.4472135954999579
+unique solution to;0.4472135954999579
+uniqueness and or;0.4472135954999579
+new york doubleday;0.4378099626095843
+government is corrupt;0.43703007209327793
+proves the earth;0.42238182634787297
+reason for the;0.4125823616767685
+reason for their;0.4125823616767685
+reason for wars;0.4125823616767685
+;
+4-gram;
+in the united states;977
+of the united states;698
+on the other hand;659
+like to point out;557
+to the fact that;504
+has nothing to do;501
+to point out that;500
+the existence of god;460
+the death penalty is;343
+there is no evidence;329
+there is no way;324
+that doesn t mean;314
+;
+4-gram-no-sw;
+life liberty pursuit happiness;103
+shall surely put death;82
+law respecting establishment religion;70
+make law respecting establishment;69
+;
+5-gram;
+has nothing to do with;494
+like to point out that;384
+would like to point out;318
+due to the fact that;289
+there is no reason to;266
+the united states of america;208
+nothing to do with the;207
+would not be able to;173
+this is not the case;172
+there is no such thing;164
+but that doesn t mean;163
+there is no way to;160
+the rest of the world;145
+fact of the matter is;127
+the fact of the matter;125
+a man and a woman;123
+the end of the day;114
+separation of church and state;113
+liberty and the pursuit of;108
+and the pursuit of happiness;108
+i don t think it;110
+d like to point out;106
+;
+5-gram-no-sw;
+make law respecting establishment religion;69
+shall make law respecting establishment;63
+congress shall make law respecting;59
+law respecting establishment religion prohibiting;53
+respecting establishment religion prohibiting free;53
+establishment religion prohibiting free exercise;53
+religion prohibiting free exercise thereof;53

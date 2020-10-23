@@ -1,0 +1,69 @@
+1-gram;;
+;;
+1-gram-no-sw;;
+;;
+1-gram-tfidf;;
+;;
+1-gram-tfidf-no-sw;;
+;;
+2-gram;;
+my opponent;27149;negative
+;;
+2-gram-no-sw;;
+thank opponent;1494;negative
+first round;1491;negative
+round acceptance;738;negative
+accepting debate;648;negative
+accept debate;589;negative
+new arguments;584;negative
+;;
+2-gram-tfidf;;
+;;
+2-gram-tfidf-no-sw;;
+;;
+3-gram;;
+my opponent s;3983;negative
+my opponent has;3454;negative
+kfc kfc kfc;1983;negative
+ham ham ham;1676;negative
+my opponent is;1620;negative
+my opponent for;1614;negative
+that my opponent;1486;negative
+thank my opponent;1381;negative
+to my opponent;1282;negative
+this debate is;1144;negative
+this debate i;1103;negative
+;;
+3-gram-no-sw;;
+first round acceptance;617;negative
+like thank opponent;509;negative
+dan small penis;360;negative
+small penis dan;359;negative
+penis dan small;359;negative
+round 1 acceptance;228;negative
+thank opponent accepting;187;negative
+thank opponent debate;150;negative
+opponent accepting debate;149;negative
+thank accepting debate;145;negative
+debate look forward;144;negative
+hi hi hi;137;negative
+debate good luck;129;negative
+please vote con;124;negative
+;;
+3-gram-tfidf;;
+round good luck;0.4472135954999579;negative
+;;
+3-gram-tfidf-no-sw;;
+;;
+4-gram;;
+wonyou wonyou wonyou wonyou;796;negative
+thinking bee thinking bee;642;negative
+bee thinking bee thinking;641;negative
+in the next round;366;negative
+;;
+4-gram-no-sw;;
+;;
+5-gram;;
+;;
+5-gram-no-sw;;
+every one wrong every one;46;negative
